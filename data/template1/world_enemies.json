@@ -1,0 +1,18 @@
+[
+    {"id": "e",
+        "name": "ooze",
+        "life": 100,
+        "dmg": 10,
+        "speed": 3,
+        "attack_radius": 5,
+        "notice_range": 1000,
+        "path": "images/enemy/enemy.png"},
+    {"id": "b",
+        "name": "ooze2",
+        "life": 200,
+        "dmg": 20,
+        "speed": 3,
+        "attack_radius": 5,
+        "notice_range": 1000,
+        "path": "images/enemy/1.png"}
+]

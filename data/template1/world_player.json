@@ -1,0 +1,6 @@
+{
+    "life": 100,
+    "dmg": 20,
+    "speed": 5,
+    "photo_path": "images/player/hero.png"
+}

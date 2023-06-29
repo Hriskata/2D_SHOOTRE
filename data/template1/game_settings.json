@@ -1,0 +1,8 @@
+{
+    "title": "2D Shooter",
+    "width": 1280,
+    "height": 720,
+    "fps": 60,
+    "tilesize": 64,
+    "background_path": "images/level/level_0.png"
+}
